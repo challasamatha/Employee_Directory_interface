@@ -1,4 +1,4 @@
-# Employee_Directory_interface -- 
+# Employee_Directory_Interface 
     Frontend Assignment (AJACKUS)
 
 This is a responsive Employee Directory web interface developed as part of the AJACKUS frontend assignment. It is built using **HTML, CSS, and Vanilla JavaScript**, with no backend dependency. The application allows users to view, search, add, edit, and delete employee data — all stored in-memory via JavaScript arrays.
